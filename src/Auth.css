@@ -1,0 +1,10 @@
+body {
+    background-color: rgb(92, 109, 123);
+}
+.authentication-container{
+    color: rgb(14, 14, 14);
+    display: flex;
+    justify-content: space-between;
+    width: 900px;
+    margin:30px auto;
+}
