@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(92, 109, 123);
+}
+
+.authtitle{
+    display: flex;
+    justify-content: center;
+    color: azure;
+    font-size: 36px;
+    opacity: 0;
+    animation: fadeInTitle 1s ease-in-out forwards; 
+    animation-delay: 1.5s;
+}
+
+
+.authentication-container{
+    color: rgb(14, 14, 14);
+    display: flex;
+    justify-content: space-between;
+    width: 900px;
+    margin:30px auto;
+}
